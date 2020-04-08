@@ -1,0 +1,20 @@
+html {
+	scroll-behavior: smooth;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	color: $color-primary;
+	text-decoration: none;
+}
+
+label {
+	display: none;
+}
+
+body {
+	background: $color-background-primary;
+}
